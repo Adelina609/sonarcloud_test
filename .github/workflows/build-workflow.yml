@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - master
-      - maven
-      - gradle
   pull_request:
     types:
       - opened
