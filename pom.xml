@@ -17,6 +17,7 @@
     <!-- 
     The two following properties are displayed on your project
     at https://sonarcloud.io
+
      -->
     <sonar.organization>adelina609</sonar.organization>
     <sonar.projectKey>Adelina609_sonarcloud_test</sonar.projectKey>
